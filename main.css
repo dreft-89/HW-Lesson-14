@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    text-align: center;
+}
+  
+div {
+    font-family: monospace;
+}
+
+.equal_of_power {
+    padding: 15px;
+    font-size: 30px;
+    color: chocolate;
+}
